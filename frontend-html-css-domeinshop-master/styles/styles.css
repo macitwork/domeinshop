@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,900&display=swap');
+
+/*////////////////////////////////////////////////////////////////////////
+Table of Contents:
+    1. Global Styles
+    2. Typografie
+    3. Areas
+        3.1 Header
+        3.2 Testimonial
+        3.3 Support
+        3.4 Faq
+        3.5 Footer
+                                     color-profile{ grijs #899CA0  donkergroen #1C2B32}
+//////////color-profile{ grijs #899CA0  donkergroen #1C2B32}///////////////////////
+//////////////1. Global Styles/////////////////////////*/
+
+.header{font-family: 'Poppins', sans-serif;}
+
+
+             /* Rounded border */
+  hr.rounded {border-top:50px #808080;border-radius:24px;width:40%;}
+
+  .button  {}
+.large{border-width:3px;padding:12px 22px}
+
+       /*////////////////////////////////2. FONTS///////////////////////////////////////*/
+
+
+
+
+                h1{ font-family: 'Poppins', sans-serif;color:Black; font-weight:900; font-style:normal;font-size:60px;}
+                                        h2{ font-family: 'Poppins', sans-serif;color:Black; font-weight:400; font-style:normal;font-size:24px;}
+                                        h4{ font-family: 'Poppins', sans-serif; color:Black;font-weight:300;padding:4px;font-size:24px;}
+                                        h6{ font-family: 'Poppins', sans-serif;color:Black; font-weight:100; font-style:italic;font-size:18px;}
+
+                                           p {font-family: 'Poppins', sans-serif; color:Black;  font-weight:Light 100;font-size: 10px;}
+
+/*////////////////////////3.Areas////////////////////////*/
+.Areas{}
+
+/*///////////// 3.1 Header /////////////*/
+.header {
+    font-family: 'Poppins', 'Sans-serif';
+
+    color: #000000;
+    background-image: none;
+    background-color: transparent;}
+
+ {.shop:font-style:ExtraBold; font-weight: 900;
+    font-size: 120px;}
+.minuut:font-style:Light 100; font-size: 10px; }
+
+
+
+
+
+.register {position: center; align-content: center}
+
+.vrij{; buttom size="big";buttom width: 40px; buttom color="#00065b"; buttom raduis="15px"; margin-left: 60px;
+padding: 0px 0px 0px;
+border-width: 0px;
+border-color: black;
+border-style: solid;
+}
+
+.large{border-width:3px;padding:12px 22px}
+
+/*///////////// 3.2 Testimonial /////////////*/
+.Testimonials{align-content: center;}
+
+/*///////////// 3.3 Support /////////////*/
+.callimage{ image-size:;width:668 ;height: 260;image-radius: 20}
+.support{align-content: center;}
+
+
+
+
+/*///////////// 3.4 Faq /////////////*/
+.faq{background:whitesmoke text-align:center;}
+.gray{background-color:#899CA0;text-align:center;}
+
+/*///////////// 3.5 Footer /////////////*/
+.footer
+{background-color:#1C2B32;}
+
+.footer{ ;font-color:#899CA0;height:40px;width:100%;margin-inside:24px;margin-top:20px;padding-top:20px;}
+
+
+
+
+
