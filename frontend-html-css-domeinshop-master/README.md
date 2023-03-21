@@ -35,7 +35,9 @@ Zorg er eerst voor dat de volgende basis-concepten in orde zijn:
 
 ### 1.2 Header
 - [ ] Voeg de titel, tekst en het formulier als HTML toe aan de header. Zorg er hierbij voor dat het uiterlijk van de tekst overeenkomt met voorbeeld;
-- [ ] Zet de content in de header netjes bij elkaar in een groep, door bijvoorbeeld een `div` te gebruiken. De groep mag maximaal 1000 pixels breed zijn. Zet de groep netjes in het midden van de pagina door de juiste `margin` te gebruiken. Zorg ook voor wat extra ruimte aan de boven en de onderkant met behulp van `padding`;
+- [ ] Zet de content in de header netjes bij elkaar in een groep, door bijvoorbeeld een `div` te gebruiken. 
+- De groep mag maximaal 1000 pixels breed zijn. Zet de groep netjes in het midden van de pagina door de juiste `margin` te gebruiken. 
+- Zorg ook voor wat extra ruimte aan de boven en de onderkant met behulp van `padding`;
 - [ ] Zorg ervoor dat het invoerveld en button er uit komen te zien als het voorbeeld, door gebruik te maken van de `border-radius`-property op de juiste hoeken. _Tip:_ je kunt deze elementen tegen elkaar aan krijgen door een negatieve margin (bijvoorbeeld: `margin: -1px;`) te gebruiken op één van de elementen. Dit is geen _best practise_, maar in dit geval de enige oplossing.
 
 Zoals je kunt zien staat er een mooie afbeelding in de header. Maar we gaan je alvast verklappen dat deze niet is ingevoegd als `<img>`-element! Wanneer je een afbeelding wil gebruiken in een header (of als achtergrond van de pagina) is het gebruikelijk om deze als _achtergrond-afbeelding_ in te voegen met CSS. Dit zorgt ervoor dat de afbeelding altijd de gehele header bedekt.
